@@ -1,0 +1,17 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 24px;
+}
+
+
+
+.annee{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: blue;
+}
+
+.activite{
+    font-family: Arial, Helvetica, sans-serif;
+}
