@@ -36,7 +36,7 @@ h1{
 }
 
 .photo-profil{
-    height: 100px;
+    height: 200px;
     width: 100px;
     object-fit: cover;
     border-radius: 40%;
