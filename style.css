@@ -20,7 +20,7 @@ h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 100px;
 }
-.titre {
+h1 {
     background-color: #3498db; 
     color: white;             
     display: inline-block;     
