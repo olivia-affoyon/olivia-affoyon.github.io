@@ -8,9 +8,11 @@
 
 
 .annee{
-    font-family: 'Courier New', Courier, monospace;
-    font-style: italic;
-    color: blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    color:black;
+    margin: 0;
+    font-weight: bold;
 }
 
 .activite{
