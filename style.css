@@ -27,17 +27,18 @@ h1{
     justify-content: space-between;
     align-items: center;
     text-align: left;
-    padding: 5px 40px; 
+    padding: 5px 30px; 
     padding-left: 20px;  
     margin: 0;              
     width: 100%;    
     box-sizing: border-box;    
-    border-radius: 8px;       
+    border-radius: 10px;       
 }
 
 .photo-profil{
-    height: 200px;
-    width: 100px;
+    height: 230px;
+    width: 130px;
     object-fit: cover;
-    border-radius: 40%;
+    border-radius: 10%;
+    margin: 5px;
 }
