@@ -100,3 +100,55 @@ h3{
     font-size: 26px;
     color: black;
 }
+
+.competences {
+    background-color: lightsteelblue;  
+    border-radius: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 40px 80px;
+    margin-top: 40px;
+}
+
+.competences h4 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.liste-competences {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.competence {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.cercles {
+    display: flex;
+    gap: 8px;
+}
+
+.cercle {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.cercle.plein {
+    background-color: black;
+}
+
+.cercle.vide {
+    background-color: transparent;
+}
