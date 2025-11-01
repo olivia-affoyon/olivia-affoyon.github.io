@@ -23,6 +23,14 @@ h1{
     margin-block-start: 10px;
     margin-block-end: 10px;
 }
+
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+}
+
 .bandeau {
     background-color:floralwhite;
     color:black;
