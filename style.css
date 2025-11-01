@@ -19,6 +19,8 @@
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 100px;
+    margin-block-start: 20px;
+    margin-block-end: 20px;
 }
 .bandeau {
     background-color:floralwhite;
