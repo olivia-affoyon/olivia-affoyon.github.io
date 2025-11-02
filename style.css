@@ -23,6 +23,7 @@
     font-family: "Lato" , sans-serif;
     font-size: 100px;
     font-style: normal;
+    font-weight: bold;
     margin: 0;
 }
 
@@ -52,6 +53,23 @@ h3{
     align-items: center;
     gap: 40px;
 }
+
+.nom-et-titre {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 1; 
+}
+
+
+.sous-titre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 2px 0 0 2px;
+}
+
+
 
 .info-contact {
     display: flex;
