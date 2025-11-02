@@ -98,7 +98,7 @@ h3{
 .photo-profil{
     height: 270px;
     width: 130px;
-    object-fit:initial;
+    object-fit:cover;
     border-radius: 10%;
 }
 
