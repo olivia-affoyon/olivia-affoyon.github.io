@@ -104,17 +104,19 @@ h3{
 .competences {
     background-color: lightsteelblue;  
     border-radius: 10px;
-    width: 100%;
+    width: calc(100% - 40px);
+    margin: 40px 20px 0 20px;
     box-sizing: border-box;
-    padding: 20px 60px 30px;
-    margin-top: 40px;
+    padding: 10px 60px 20px;
+    position: relative;
 }
 
 .competences h4 {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 30px;
-    margin-bottom: 0 0 15px;
+    margin-top: 5px;
+    margin-bottom: 15px;
 }
 
 .liste-competences {
@@ -123,6 +125,7 @@ h3{
     align-items: center;
     flex-wrap: wrap;
     gap: 40px;
+    margin-top: 0;
 }
 
 .competence {
