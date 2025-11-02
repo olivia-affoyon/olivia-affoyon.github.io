@@ -100,14 +100,15 @@ h3{
     width: 130px;
     object-fit:cover;
     border-radius: 10%;
+    position: relative;
 }
 
 .info-photo {
-    display: flex;
-    align-items: center;
-    gap: 20px;
     position: relative;
-    width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; 
+  width: 350px;
 }
 
 .contenu {
