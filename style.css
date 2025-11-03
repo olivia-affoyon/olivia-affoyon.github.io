@@ -79,7 +79,7 @@ h3{
 .info-contact {
   position: absolute;
   top: 50%;
-  left: -30px;
+  left: -40px;
   transform: translateY(-50%);
   text-align: left;
   display: flex;
